@@ -1,4 +1,4 @@
-# ESP32 Camera and SD-cart example
+# ESP32 Camera and SD-card example
 
 ## ESP-IDF
 
@@ -8,8 +8,8 @@ See [ESP-IDF ](https://docs.espressif.com/projects/esp-idf/en/stable/esp32/get-s
 ## Components
 
 It uses the ESP32 Camera components to take pictures with the camera. These images are then saved on the SD card.
-- `sdm`: SD componente
-- `esp32-camera`: SP32 Camera componente
+- `sdmmc`: SD component
+- `esp32-camera`: SP32 Camera component
 
 
 ---
